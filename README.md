@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @MTimofei
-https://leetcode.com/MTimofei/
+- My LeetCode https://leetcode.com/MTimofei/
